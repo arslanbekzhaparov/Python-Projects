@@ -1,6 +1,3 @@
-# student name: Arslanbek Zhaparov
-# student number:1944563
-
 # A command-line 2048 game
 
 import random
